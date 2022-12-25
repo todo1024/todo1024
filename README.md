@@ -1,4 +1,4 @@
-MySQL提升课程 全面讲解MySQL架构设计
+算法与数据结构-综合提升 C++版
 
 
 ### 微:NoBug1024 
@@ -12,4 +12,4 @@ redis 7 全栈式培训教程
 
 课程截图：
 
-![image](https://leepoo.top/img/1634221977356.png)
+![image]([https://leepoo.top/img/1634221977356.png](https://leepoo.top/img/1634222650333.png))
